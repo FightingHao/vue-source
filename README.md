@@ -15,4 +15,4 @@
 ![图片源自《Vue.js 技术揭秘》](https://fightinghao.github.io/vue-source/images/readme/mind.png)
 
 ## 完整流程
-![《图片源自网络》](https://fightinghao.github.io/vue-source/images/readme/start.png)
+![图片源自网络](https://fightinghao.github.io/vue-source/images/readme/start.png)
