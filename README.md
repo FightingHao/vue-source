@@ -1,6 +1,7 @@
 # Vue 源码阅读
 <a href="https://github.com/vuejs/vue"><img src="https://img.shields.io/badge/vue-v2.6.10-blue.svg" alt="react-router"></a>
 
+## 目录
 <a href="https://github.com/FightingHao/vue-source/issues/1">01-准备工作</a>
 
 ## 阅读方式
